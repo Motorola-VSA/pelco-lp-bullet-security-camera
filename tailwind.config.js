@@ -10,8 +10,8 @@ module.exports = {
       xl: '1440px',
     },
     backgroundImage: {
-      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/bullet-security-cameras/6.%20Bullet%20Camera%20Desktop.jpg')",
-      'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/bullet-security-cameras/6.%20Bullet%20Camera%20Mobile.jpg')"
+      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/bullet-security-cameras/6.%20Bullet%20Camera%20Desktop%20(1).jpg')",
+      'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/bullet-security-cameras/6.%20Bullet%20Camera%20Mobile%20(1).jpg')"
     },
     extend: {
       colors: {
